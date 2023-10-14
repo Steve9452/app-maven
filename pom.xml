@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mitocode</groupId>
 	<artifactId>app-maven</artifactId>
-	<version>1.0.11-RELEASE</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>app-maven</name>
 	<description>springboot-thymeleaf-crud</description>
 

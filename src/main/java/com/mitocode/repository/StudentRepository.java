@@ -11,5 +11,7 @@ import com.mitocode.entity.Student;
 public interface StudentRepository extends CrudRepository<Student, Long> {
     
     List<Student> findByName(String name);
+
+    List<Student> findByEmail(String email);
     
 }
